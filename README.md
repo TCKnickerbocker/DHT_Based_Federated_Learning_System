@@ -96,4 +96,17 @@ python3 compute_node.py 8094
 python3 client.py ./letters validate_letters.txt
 ```
 
+## 💡 Value Proposition
 
+- **Minimal Infrastructure:** Runs without requiring heavy cloud or ML frameworks.  
+- **Educational Use:** A powerful learning tool for systems and ML students.  
+- **Customizable and Extensible:** Ideal base for research and feature expansion.  
+- **Open, Decentralized:** Encourages experimentation in decentralized ML and systems.  
+
+## 🔮 Future Work
+
+- Add support for **secure aggregation** (e.g., homomorphic encryption).  
+- Enable **asynchronous training** and updates.  
+- Add **real-time metrics logging** and dashboard visualization.  
+- Extend for more complex models (e.g., deep neural networks).  
+- Integrate more robust **node fault recovery** and **trust models**.  
