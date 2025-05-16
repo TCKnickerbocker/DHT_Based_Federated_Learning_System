@@ -50,7 +50,16 @@ This project implements a **federated learning system** built atop a **Chord Dis
 
 ---
 
-## 🏗️ System Architecture
+## 💡 Value Proposition
+
+- **Minimal Infrastructure:** Runs without requiring heavy cloud or ML frameworks.  
+- **Educational Use:** A powerful learning tool for systems and ML students.  
+- **Customizable and Extensible:** Ideal base for research and feature expansion.  
+- **Open, Decentralized:** Encourages experimentation in decentralized ML and systems.  
+
+---
+
+## 🏗️ System Diagram
 
 <img src="./DHT%20Diagram.png" alt="System Diagram" title="System Diagram" length="1200" width="500" />
 
@@ -95,13 +104,6 @@ python3 compute_node.py 8094
 ```bash
 python3 client.py ./letters validate_letters.txt
 ```
-
-## 💡 Value Proposition
-
-- **Minimal Infrastructure:** Runs without requiring heavy cloud or ML frameworks.  
-- **Educational Use:** A powerful learning tool for systems and ML students.  
-- **Customizable and Extensible:** Ideal base for research and feature expansion.  
-- **Open, Decentralized:** Encourages experimentation in decentralized ML and systems.  
 
 ## 🔮 Future Work
 
